@@ -6,4 +6,6 @@ Educational repository for HU OSS SW 2019
 | Name | Role |
 |------|------|
 |Jeongkyu Shin | Teach |
-|Sangwon Park | Student | 
+|Sangwon Park | Student |
+|Seungmin Baek | Student |
+
