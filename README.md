@@ -5,4 +5,4 @@ Educational repository for HU OSS SW 2019
 
 | Name | Role |
 |------|------|
-|Jeongkyu Shin | Teach | 
+| Hyeonbo Shim | Student | 
