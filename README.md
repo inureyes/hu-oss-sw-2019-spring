@@ -6,6 +6,7 @@ Educational repository for HU OSS SW 2019
 | Name | Role |
 |------|------|
 |Jeongkyu Shin | Teach | 
+|Kyungjin You  | Student |
 |DongYeon Han  | Student |
 |Jiseon Lee    | Student|
 |Yo Han An     | Student |
