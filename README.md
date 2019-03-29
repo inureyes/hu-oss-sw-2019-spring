@@ -11,5 +11,6 @@ Educational repository for HU OSS SW 2019
 |Eunsoo Sa | Student |
 |Junsun Park | Student |
 |Sangwon Park | Student | 
+|Sejin Eom| Student | 
 |Jae Hyeon Park| Student |
 |Yerim Seok    | Student |
