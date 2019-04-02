@@ -5,7 +5,16 @@ Educational repository for HU OSS SW 2019
 
 | Name | Role |
 |------|------|
-|Jeongkyu Shin | Teach |
-|Sangwon Park | Student |
-|Seungmin Baek | Student |
-
+|Jeongkyu Shin | Teach | 
+|SeungHyun Cho | Student |
+|Kyungjin You  | Student |
+|DongYeon Han  | Student |
+|Jiseon Lee    | Student|
+|Yo Han An     | Student |
+|Eunsoo Sa | Student |
+|Junsun Park | Student |
+|Sangwon Park | Student | 
+|Sejin Eom| Student | 
+|Jae Hyeon Park| Student |
+|Yerim Seok    | Student |
+|Seungmin Baek | Student | 
