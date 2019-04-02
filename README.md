@@ -17,4 +17,4 @@ Educational repository for HU OSS SW 2019
 |Sejin Eom| Student | 
 |Jae Hyeon Park| Student |
 |Yerim Seok    | Student |
-|HyeongChang Lee | Student |
+|HyeongChang Lee | Student | 
